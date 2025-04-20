@@ -6,7 +6,7 @@ st.title("🔐 Password Strength Checker")
 
 # 📝 Description
 st.markdown("""
-Welcome to the ** Password Strength Checker!**  
+Welcome to the *Password Strength Checker!*  
 Ensure your password is secure by checking:
 - ✅ Should 8 Characters
 - ✅ should have Upper & Lowercase letters
